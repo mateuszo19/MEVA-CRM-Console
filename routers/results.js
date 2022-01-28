@@ -22,6 +22,7 @@ resultsRouter
         const articles = []
         for(let i = 0; i < urls.length; i++){
             const gameTitle = urls[i].title;
+            const ourPrice = urls[i].price;
             console.log(gameTitle)
             const url = `https://www.cdkeys.com/${urls[i].address}`;
             await axios(url)
@@ -35,7 +36,8 @@ resultsRouter
                         const gameName = gameTitle;
                         articles.push({
                             title,
-                            gameName
+                            gameName,
+                            ourPrice
                         })
                     })
                     console.log(articles)

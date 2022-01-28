@@ -1,13 +1,15 @@
 
 <table class="resultTable">
-    <tr>
+    <tr style="border: 1px solid black">
         <th>Game name</th>
         <th>Cd-Key price</th>
+        <th>Our price</th>
     </tr>
     {{#each articles}}
         <tr>
             <th>{{this.gameName}}</th>
             <th>{{this.title}}</th>
+            <th>{{this.ourPrice}}</th>
         </tr>
     {{/each}}
 </table>

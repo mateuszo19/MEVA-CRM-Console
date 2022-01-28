@@ -29,11 +29,151 @@
     "price": 26.69
   },
   {
-    "title": "Euro Truck Simulator 2 Vive la France DLC",
+    "title": "America Truck Simulator Washington DLC",
     "shop": "cdkeys",
-    "address": "euro-truck-simulator-2-pc-vive-la-france-dlc-steam-cd-key",
+    "address": "american-truck-simulator-pc-washington-dlc",
+    "allegro": 11760518389,
+    "price": 24.99
+  },
+  {
+    "title": "America Truck Simulator Utah DLC",
+    "shop": "cdkeys",
+    "address": "american-truck-simulator-pc-utah-steam-dlc",
+    "allegro": 11760545258,
+    "price": 27.79
+  },
+  {
+    "title": "Anno 2205",
+    "shop": "cdkeys",
+    "address": "anno-2205-pc-uplay-cd-key",
+    "allegro": 11760574475,
+    "price": 31.09
+  },
+  {
+    "title": "Arma 3",
+    "shop": "cdkeys",
+    "address": "arma-3-pc-cd-key",
+    "allegro": 11760600624,
+    "price": 88.99
+  },
+  {
+    "title": "Assassin'c Creed 3",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-3-pc-cd-key-uplay",
+    "allegro": 11760613309,
+    "price": 22.19
+  },
+  {
+    "title": "Assassin'c Creed The Ezio Collection",
+    "shop": "cdkeys",
+    "address": "assassins-creed-the-ezio-collection-uplay-pc",
+    "allegro": 11760640181,
+    "price": 55.59
+  },
+  {
+    "title": "Assassin'c Creed Brotherhood",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-brotherhood-pc",
+    "allegro": 11760665397,
+    "price": 17.19
+  },
+  {
+    "title": "Assassin'c Creed Odyssey",
+    "shop": "cdkeys",
+    "address": "assassins-creed-odyssey-pc-uplay-cd-key",
     "allegro": 11713843093,
-    "price": 26.69
+    "price": 55.59
+  },
+  {
+    "title": "Assassin'c Creed Odyssey Deluxe",
+    "shop": "cdkeys",
+    "address": "assassins-creed-odyssey-deluxe-pc-uplay-cd-key",
+    "allegro": 11760699400,
+    "price": 75.09
+  },
+  {
+    "title": "Assassin'c Creed Origin",
+    "shop": "cdkeys",
+    "address": "assassins-creed-origins-pc-uplay-cd-key",
+    "allegro": 11760719299,
+    "price": 41.69
+  },
+  {
+    "title": "Assassin'c Creed Origin Gold Edition",
+    "shop": "cdkeys",
+    "address": "assassins-creed-origins-gold-edition-pc-uplay-cd-key",
+    "allegro": 11760759608,
+    "price": 77.79
+  },
+  {
+    "title": "Assassin'c Creed Unity",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-unity-pc-cd-key-uplay",
+    "allegro": 11760821414,
+    "price": 19.39
+  },
+  {
+    "title": "Assassin'c Creed Unity XBOX",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-unity-xbox-one",
+    "allegro": 11760837484,
+    "price": 33.29
+  },
+  {
+    "title": "Assassin'c Creed Valhalla",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-unity-xbox-one",
+    "allegro": 11760848149,
+    "price": 138.99
+  },
+  {
+    "title": "Assetto Corsa PC",
+    "shop": "cdkeys",
+    "address": "assetto-corsa-pc",
+    "allegro": 11760864357,
+    "price": 16.59
+  },
+  {
+    "title": "Battlefield 1",
+    "shop": "cdkeys",
+    "address": "battlefield-1-pc-origin",
+    "allegro": 11760890064,
+    "price": 32.19
+  },
+  {
+    "title": "Battlefield 4",
+    "shop": "cdkeys",
+    "address": "battlefield-1-pc-origin",
+    "allegro": 11760909956,
+    "price": 48.89
+  },
+  {
+    "title": "Battlefield 5",
+    "shop": "cdkeys",
+    "address": "battlefield-v-5-pc-eng",
+    "allegro": 11760927699,
+    "price": 41.69
+  },
+  {
+    "title": "Call of The Sea",
+    "shop": "cdkeys",
+    "address": "call-of-the-sea-pc-steam",
+    "allegro": 11760946628,
+    "price": 49.99
+  },
+  {
+    "title": "Chivlary 2",
+    "shop": "cdkeys",
+    "address": "call-of-the-sea-pc-steam",
+    "allegro": 11760963399,
+    "price":  66.69
+  },
+  {
+    "title": "Cities Skylines",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-cd-key",
+    "allegro": 11760981513,
+    "price":  27.79
   }
 ]
 
