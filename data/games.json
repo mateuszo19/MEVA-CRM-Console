@@ -122,7 +122,7 @@
   {
     "title": "Assassin'c Creed Valhalla",
     "shop": "cdkeys",
-    "address": "assassin-s-creed-unity-xbox-one",
+    "address": "assassins-creed-valhalla-pc-eu-uplay",
     "allegro": 11760848149,
     "price": 138.99
   },
@@ -174,6 +174,174 @@
     "address": "cities-skylines-pc-cd-key",
     "allegro": 11760981513,
     "price":  27.79
+  },
+  {
+    "title": "Cities Skylines: After Dark",
+    "shop": "cdkeys",
+    "address": "cities-skylines-after-dark-pc-cd-key",
+    "allegro": 11767557458,
+    "price":  23.89
+  },
+  {
+    "title": "Cities Skylines: Green Cities",
+    "shop": "cdkeys",
+    "address": "cities-skylines-green-cities-pc-steam-cd-key",
+    "allegro": 11767600548,
+    "price":  30.59
+  },
+  {
+    "title": "Cities Skylines: Industries",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-industries-plus-dlc-steam-cd-key",
+    "allegro": 11767625556,
+    "price":  32.19
+  },
+  {
+    "title": "Cities Skylines: Natural Disasters",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-natural-disasters-dlc-steam-cd-key",
+    "allegro": 11767650213,
+    "price":  19.39
+  },
+  {
+    "title": "Cities Skylines: Parklife",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-parklife-dlc-steam-cd-key",
+    "allegro": 11767683547,
+    "price":  23.89
+  },
+  {
+    "title": "Cris Tales",
+    "shop": "cdkeys",
+    "address": "cris-tales-pc-steam",
+    "allegro": 11767711452,
+    "price":  77.79
+  },
+  {
+    "title": "Crusader Kings 3",
+    "shop": "cdkeys",
+    "address": "crusader-kings-iii-3-pc-steam",
+    "allegro": 11767734406,
+    "price":  72.29
+  },
+  {
+    "title": "Dark Souls 3",
+    "shop": "cdkeys",
+    "address": "pc/games/dark-souls-iii-3-pc-cd-key-steam",
+    "allegro": 11767762639,
+    "price":  49.99
+  },
+  {
+    "title": "Days Gone",
+    "shop": "cdkeys",
+    "address": "pc/days-gone-pc-steam",
+    "allegro": 11767789656,
+    "price":  94.49
+  },
+  {
+    "title": "Dead by Daylight Deluxe",
+    "shop": "cdkeys",
+    "address": "pc/games/dead-by-daylight-deluxe-pc-steam-cd-key",
+    "allegro": 11767812511,
+    "price":  81.69
+  },
+  {
+    "title": "Detroit: Become Human",
+    "shop": "cdkeys",
+    "address": "pc/detroit-become-human-pc-steam",
+    "allegro": 11767833426,
+    "price":  55.59
+  },
+  {
+    "title": "Dirt Rally 2.0",
+    "shop": "cdkeys",
+    "address": "pc/games/dirt-rally-2-0-pc-steam-cd-key",
+    "allegro": 11767855387,
+    "price":  82.29
+  },
+  {
+    "title": "Dishonored 2",
+    "shop": "cdkeys",
+    "address": "pc/games/dishonored-2-pc-cd-key-steam",
+    "allegro": 11767879048,
+    "price":  27.79
+  },
+  {
+    "title": "Doom",
+    "shop": "cdkeys",
+    "address": "pc/games/doom-pc-cd-key-steam",
+    "allegro": 11767897156,
+    "price":  22.19
+  },
+  {
+    "title": "Dying Light",
+    "shop": "cdkeys",
+    "address": "dying-light-pc-cd-key-steam",
+    "allegro": 11767913943,
+    "price":  27.79
+  },
+  {
+    "title": "Empire of Sin",
+    "shop": "cdkeys",
+    "address": "pc/games/empire-of-sin-pc-steam",
+    "allegro": 11767942793,
+    "price":  41.69
+  },
+  {
+    "title": "Empire: Total War",
+    "shop": "cdkeys",
+    "address": "empire-total-war-pc-cd-key-steam",
+    "allegro": 11767959847,
+    "price":  49.49
+  },
+  {
+    "title": "F1 2020",
+    "shop": "cdkeys",
+    "address": "pc/games/f1-2020-pc-steam",
+    "allegro": 11767977317,
+    "price":  121.79
+  },
+  {
+    "title": "F1 2021",
+    "shop": "cdkeys",
+    "address": "pc/f1-2021-pc-steam",
+    "allegro": 11767999566,
+    "price":  100.09
+  },
+  {
+    "title": "Fallout 3 Game of The Year Edition",
+    "shop": "cdkeys",
+    "address": "pc/games/fallout-3-game-of-the-year-edition-pc-cd-key-steam",
+    "allegro": 11768026858,
+    "price":  16.59
+  },
+  {
+    "title": "Fallout 4",
+    "shop": "cdkeys",
+    "address": "fallout-4-pc-cd-key-steam",
+    "allegro": 11768103640,
+    "price":  19.39
+  },
+  {
+    "title": "Fallout 4 Game of The Year Edition",
+    "shop": "cdkeys",
+    "address": "pc/games/fallout-4-game-of-the-year-edition-pc-steam-cd-key",
+    "allegro": 11768050286,
+    "price":  38.39
+  },
+  {
+    "title": "Far Cry 2 Fortunes Edition",
+    "shop": "cdkeys",
+    "address": "far-cry-2-fortunes-edition-pc-uplay",
+    "allegro": 11768112637,
+    "price":  15.49
+  },
+  {
+    "title": "Far Cry 3 Deluxe Edition",
+    "shop": "cdkeys",
+    "address": "far-cry-3-deluxe-edition-pc-uplay",
+    "allegro": 11768073109,
+    "price":  36.09
   }
 ]
 
