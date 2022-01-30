@@ -4,12 +4,15 @@
         <th>Game name</th>
         <th>Cd-Key price</th>
         <th>Our price</th>
+        <th>Price difference (shop price - our price)</th>
     </tr>
     {{#each articles}}
         <tr>
             <th>{{this.gameName}}</th>
             <th>{{this.title}}</th>
             <th>{{this.ourPrice}}</th>
+            <th>{{this.priceDifference}}</th>
+            <th><button><a href={{this.url}}>GO TO</a></button></th>
         </tr>
     {{/each}}
 </table>

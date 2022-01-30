@@ -31,13 +31,16 @@ resultsRouter
                     const $ = cheerio.load(html)
 
                     $('.product-info-price .price-final_price .special-price .price-final_price .price-wrapper .price', html).each(function () { //<-- cannot be a function expression
-                        const title = $(this).text()
+                        const title = parseFloat($(this).text().substr(3,7));
                         // const url = $(this).find('a').attr('href')
                         const gameName = gameTitle;
+                        const priceDifference = title - ourPrice;
                         articles.push({
                             title,
                             gameName,
-                            ourPrice
+                            ourPrice,
+                            priceDifference,
+                            url
                         })
                     })
                     console.log(articles)
