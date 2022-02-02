@@ -342,6 +342,34 @@
     "address": "far-cry-3-deluxe-edition-pc-uplay",
     "allegro": 11768073109,
     "price":  36.09
+  },
+  {
+    "title": "Far Cry 4", //37
+    "shop": "cdkeys",
+    "address": "far-cry-4-pc",
+    "allegro": 11768073109,
+    "price":  30.59
+  },
+  {
+    "title": "Far Cry The New Dawn", //47
+    "shop": "cdkeys",
+    "address": "far-cry-new-dawn-pc-uplay-cd-key",
+    "allegro": 11768073109,
+    "price":  38.89
+  },
+  {
+    "title": "Farming Simulator 19", //53
+    "shop": "cdkeys",
+    "address": "pc/games/farming-simulator-19-pc-steam-cd-key",
+    "allegro": 11768073109,
+    "price":  44.49
+  },
+  {
+    "title": "Fifa 21", //270
+    "shop": "cdkeys",
+    "address": "pc/games/fifa-21-pc-origin",
+    "allegro": 11768073109,
+    "price":  227.49
   }
 ]
 
