@@ -1,0 +1,792 @@
+
+[
+  {
+    "title": "Euro Truck Simulator 2",
+    "shop": "cdkeys",
+    "address": "euro-truck-simulator-2-pc",
+    "allegro": 11676794457,
+    "price": 29.39
+  },
+  {
+    "title": "Euro Truck Simulator 2 Going East DLC",
+    "shop": "cdkeys",
+    "address": "euro-truck-simulator-2-going-east-dlc-pc-steam-cd-key",
+    "allegro": 11713697301,
+    "price": 19.39
+  },
+  {
+    "title": "Euro Truck Simulator 2 Scandinavia DLC",
+    "shop": "cdkeys",
+    "address": "euro-truck-simulator-2-scandinavia-dlc-pc-cd-key",
+    "allegro": 11713815145,
+    "price": 22.19
+  },
+  {
+    "title": "Euro Truck Simulator 2 Vive la France DLC",
+    "shop": "cdkeys",
+    "address": "euro-truck-simulator-2-pc-vive-la-france-dlc-steam-cd-key",
+    "allegro": 11713843093,
+    "price": 26.69
+  },
+  {
+    "title": "America Truck Simulator Washington DLC",
+    "shop": "cdkeys",
+    "address": "american-truck-simulator-pc-washington-dlc",
+    "allegro": 11760518389,
+    "price": 24.99
+  },
+  {
+    "title": "America Truck Simulator Utah DLC",
+    "shop": "cdkeys",
+    "address": "american-truck-simulator-pc-utah-steam-dlc",
+    "allegro": 11760545258,
+    "price": 27.79
+  },
+  {
+    "title": "Anno 2205",
+    "shop": "cdkeys",
+    "address": "anno-2205-pc-uplay-cd-key",
+    "allegro": 11760574475,
+    "price": 31.09
+  },
+  {
+    "title": "Arma 3",
+    "shop": "cdkeys",
+    "address": "arma-3-pc-cd-key",
+    "allegro": 11760600624,
+    "price": 88.99
+  },
+  {
+    "title": "Assassin'c Creed 3",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-3-pc-cd-key-uplay",
+    "allegro": 11760613309,
+    "price": 22.19
+  },
+  {
+    "title": "Assassin'c Creed The Ezio Collection",
+    "shop": "cdkeys",
+    "address": "assassins-creed-the-ezio-collection-uplay-pc",
+    "allegro": 11760640181,
+    "price": 55.59
+  },
+  {
+    "title": "Assassin'c Creed Brotherhood",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-brotherhood-pc",
+    "allegro": 11760665397,
+    "price": 17.19
+  },
+  {
+    "title": "Assassin'c Creed Odyssey",
+    "shop": "cdkeys",
+    "address": "assassins-creed-odyssey-pc-uplay-cd-key",
+    "allegro": 11713843093,
+    "price": 55.59
+  },
+  {
+    "title": "Assassin'c Creed Odyssey Deluxe",
+    "shop": "cdkeys",
+    "address": "assassins-creed-odyssey-deluxe-pc-uplay-cd-key",
+    "allegro": 11760699400,
+    "price": 75.09
+  },
+  {
+    "title": "Assassin'c Creed Origin",
+    "shop": "cdkeys",
+    "address": "assassins-creed-origins-pc-uplay-cd-key",
+    "allegro": 11760719299,
+    "price": 41.69
+  },
+  {
+    "title": "Assassin'c Creed Origin Gold Edition",
+    "shop": "cdkeys",
+    "address": "assassins-creed-origins-gold-edition-pc-uplay-cd-key",
+    "allegro": 11760759608,
+    "price": 75.09
+  },
+  {
+    "title": "Assassin'c Creed Unity",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-unity-pc-cd-key-uplay",
+    "allegro": 11760821414,
+    "price": 19.39
+  },
+  {
+    "title": "Assassin'c Creed Unity XBOX",
+    "shop": "cdkeys",
+    "address": "assassin-s-creed-unity-xbox-one",
+    "allegro": 11760837484,
+    "price": 33.29
+  },
+  {
+    "title": "Assassin'c Creed Valhalla",
+    "shop": "cdkeys",
+    "address": "assassins-creed-valhalla-pc-eu-uplay",
+    "allegro": 11760848149,
+    "price": 94.49
+  },
+  {
+    "title": "Assetto Corsa PC",
+    "shop": "cdkeys",
+    "address": "assetto-corsa-pc",
+    "allegro": 11760864357,
+    "price": 16.59
+  },
+  {
+    "title": "Battlefield 1",
+    "shop": "cdkeys",
+    "address": "battlefield-1-pc-origin",
+    "allegro": 11760890064,
+    "price": 32.19
+  },
+  {
+    "title": "Battlefield 4",
+    "shop": "cdkeys",
+    "address": "battlefield-1-pc-origin",
+    "allegro": 11760909956,
+    "price": 32.19
+  },
+  {
+    "title": "Battlefield 5",
+    "shop": "cdkeys",
+    "address": "battlefield-v-5-pc-eng",
+    "allegro": 11760927699,
+    "price": 41.69
+  },
+  {
+    "title": "Call of The Sea",
+    "shop": "cdkeys",
+    "address": "call-of-the-sea-pc-steam",
+    "allegro": 11760946628,
+    "price": 49.99
+  },
+  {
+    "title": "Chivlary 2",
+    "shop": "cdkeys",
+    "address": "call-of-the-sea-pc-steam",
+    "allegro": 11760963399,
+    "price":  49.99
+  },
+  {
+    "title": "Cities Skylines",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-cd-key",
+    "allegro": 11760981513,
+    "price":  27.79
+  },
+  {
+    "title": "Cities Skylines: After Dark",
+    "shop": "cdkeys",
+    "address": "cities-skylines-after-dark-pc-cd-key",
+    "allegro": 11767557458,
+    "price":  23.89
+  },
+  {
+    "title": "Cities Skylines: Green Cities",
+    "shop": "cdkeys",
+    "address": "cities-skylines-green-cities-pc-steam-cd-key",
+    "allegro": 11767600548,
+    "price":  23.89
+  },
+  {
+    "title": "Cities Skylines: Industries",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-industries-plus-dlc-steam-cd-key",
+    "allegro": 11767625556,
+    "price":  32.19
+  },
+  {
+    "title": "Cities Skylines: Natural Disasters",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-natural-disasters-dlc-steam-cd-key",
+    "allegro": 11767650213,
+    "price":  19.39
+  },
+  {
+    "title": "Cities Skylines: Parklife",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-parklife-dlc-steam-cd-key",
+    "allegro": 11767683547,
+    "price":  23.89
+  },
+  {
+    "title": "Cris Tales",
+    "shop": "cdkeys",
+    "address": "cris-tales-pc-steam",
+    "allegro": 11767711452,
+    "price":  77.79
+  },
+  {
+    "title": "Crusader Kings 3",
+    "shop": "cdkeys",
+    "address": "crusader-kings-iii-3-pc-steam",
+    "allegro": 11767734406,
+    "price":  72.29
+  },
+  {
+    "title": "Dark Souls 3",
+    "shop": "cdkeys",
+    "address": "pc/games/dark-souls-iii-3-pc-cd-key-steam",
+    "allegro": 11767762639,
+    "price":  49.99
+  },
+  {
+    "title": "Days Gone",
+    "shop": "cdkeys",
+    "address": "pc/days-gone-pc-steam",
+    "allegro": 11767789656,
+    "price":  94.49
+  },
+  {
+    "title": "Dead by Daylight Deluxe",
+    "shop": "cdkeys",
+    "address": "pc/games/dead-by-daylight-deluxe-pc-steam-cd-key",
+    "allegro": 11767812511,
+    "price":  81.69
+  },
+  {
+    "title": "Detroit: Become Human",
+    "shop": "cdkeys",
+    "address": "pc/detroit-become-human-pc-steam",
+    "allegro": 11767833426,
+    "price":  55.59
+  },
+  {
+    "title": "Dirt Rally 2.0",
+    "shop": "cdkeys",
+    "address": "pc/games/dirt-rally-2-0-pc-steam-cd-key",
+    "allegro": 11767855387,
+    "price":  82.29
+  },
+  {
+    "title": "Dishonored 2",
+    "shop": "cdkeys",
+    "address": "pc/games/dishonored-2-pc-cd-key-steam",
+    "allegro": 11767879048,
+    "price":  27.79
+  },
+  {
+    "title": "Doom",
+    "shop": "cdkeys",
+    "address": "pc/games/doom-pc-cd-key-steam",
+    "allegro": 11767897156,
+    "price":  22.19
+  },
+  {
+    "title": "Dying Light",
+    "shop": "cdkeys",
+    "address": "dying-light-pc-cd-key-steam",
+    "allegro": 11767913943,
+    "price":  27.79
+  },
+  {
+    "title": "Empire of Sin",
+    "shop": "cdkeys",
+    "address": "pc/games/empire-of-sin-pc-steam",
+    "allegro": 11767942793,
+    "price":  41.69
+  },
+  {
+    "title": "Empire: Total War",
+    "shop": "cdkeys",
+    "address": "empire-total-war-pc-cd-key-steam",
+    "allegro": 11767959847,
+    "price":  48.89
+  },
+  {
+    "title": "F1 2020",
+    "shop": "cdkeys",
+    "address": "pc/games/f1-2020-pc-steam",
+    "allegro": 11767977317,
+    "price":  125.09
+  },
+  {
+    "title": "F1 2021",
+    "shop": "cdkeys",
+    "address": "pc/f1-2021-pc-steam",
+    "allegro": 11767999566,
+    "price":  111.19
+  },
+  {
+    "title": "Fallout 3 Game of The Year Edition",
+    "shop": "cdkeys",
+    "address": "pc/games/fallout-3-game-of-the-year-edition-pc-cd-key-steam",
+    "allegro": 11768026858,
+    "price":  16.59
+  },
+  {
+    "title": "Fallout 4",
+    "shop": "cdkeys",
+    "address": "fallout-4-pc-cd-key-steam",
+    "allegro": 11768103640,
+    "price":  19.39
+  },
+  {
+    "title": "Fallout 4 Game of The Year Edition",
+    "shop": "cdkeys",
+    "address": "pc/games/fallout-4-game-of-the-year-edition-pc-steam-cd-key",
+    "allegro": 11768050286,
+    "price":  38.89
+  },
+  {
+    "title": "Far Cry 2 Fortunes Edition",
+    "shop": "cdkeys",
+    "address": "far-cry-2-fortunes-edition-pc-uplay",
+    "allegro": 11768112637,
+    "price":  15.49
+  },
+  {
+    "title": "Far Cry 3 Deluxe Edition",
+    "shop": "cdkeys",
+    "address": "far-cry-3-deluxe-edition-pc-uplay",
+    "allegro": 11768073109,
+    "price":  36.09
+  },
+  {
+    "title": "Far Cry 4",
+    "shop": "cdkeys",
+    "address": "far-cry-4-pc",
+    "allegro": 11793028764,
+    "price":  30.59
+  },
+  {
+    "title": "Far Cry The New Dawn",
+    "shop": "cdkeys",
+    "address": "far-cry-new-dawn-pc-uplay-cd-key",
+    "allegro": 11792968144,
+    "price":  38.89
+  },
+  {
+    "title": "Farming Simulator 19",
+    "shop": "cdkeys",
+    "address": "pc/games/farming-simulator-19-pc-steam-cd-key",
+    "allegro": 11792977511,
+    "price":  44.49
+  },
+  {
+    "title": "Fifa 21",
+    "shop": "cdkeys",
+    "address": "pc/games/fifa-21-pc-origin",
+    "allegro": 11792997327,
+    "price":  227.49
+  },
+  {
+    "title": "The Sims 4",
+    "shop": "cdkeys",
+    "address": "the-sims-4-standard-edition-pc-cd-key-origin",
+    "allegro": 11792534156,
+    "price":  27.79
+  },
+  {
+    "title": "The Sims 4 XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-xbox-one",
+    "allegro": 11792584492,
+    "price":  41.69
+  },
+  {
+    "title": "The Sims 4 Psy i koty",
+    "shop": "cdkeys",
+    "address": "the-sims-4-cats-and-dogs-expansion-pc-origin-cd-key",
+    "allegro": 11792691095,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Psy i koty XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-cats-and-dog-expansion-pack-xbox-one",
+    "allegro": 11792624367,
+    "price":  111.19
+  },
+  {
+    "title": "The Sims 4 Cztery pory roku",
+    "shop": "cdkeys",
+    "address": "the-sims-4-seasons-expansion-pack-pc-origin-cd-key",
+    "allegro": 11792624367,
+    "price":  61.19
+  },
+  {
+    "title": "The Sims 4 Cztery pory roku XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-seasons-xbox-one",
+    "allegro": 11793372312,
+    "price":  88.99
+  },
+  {
+    "title": "The Sims 4 Wyspiarskie Życie",
+    "shop": "cdkeys",
+    "address": "the-sims-4-island-living-expansion-pack-pc-origin-cd-key",
+    "allegro": 11793381621,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Wyspiarskie Życie XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-island-living-xbox-one",
+    "allegro": 11793404859,
+    "price":  94.49
+  },
+  {
+    "title": "The Sims 4 Dzień w Spa",
+    "shop": "cdkeys",
+    "address": "the-sims-4-spa-day-pc-cd-key-origin",
+    "allegro": 11793417514,
+    "price":  61.19
+  },
+  {
+    "title": "The Sims 4 Fitness",
+    "shop": "cdkeys",
+    "address": "the-sims-4-fitness-stuff-pack-pc-origin-cd-key",
+    "allegro": 11793443109,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Fitness XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-fitness-stuff-xbox-one",
+    "allegro": 11793487330,
+    "price":  51.69
+  },
+  {
+    "title": "The Sims 4 Kino Domowe",
+    "shop": "cdkeys",
+    "address": "the-sims-4-movie-hangout-stuff-pc-origin-cd-key",
+    "allegro": 11793507882,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Kompaktowe Wnętrza",
+    "shop": "cdkeys",
+    "address": "the-sims-4-tiny-living-stuff-pack-pc",
+    "allegro": 11793536405,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Kraina magii",
+    "shop": "cdkeys",
+    "address": "the-sims-4-realm-of-magic-origin-pc",
+    "allegro": 11793574139,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Kraina magii XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-realm-of-magic-xbox-one",
+    "allegro": 11793596669,
+    "price":  100.09
+  },
+  {
+    "title": "The Sims 4 Miejskie Życie XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-city-living-expansion-pack-xbox-one",
+    "allegro": 11793607516,
+    "price":  72.79
+  },
+  {
+    "title": "The Sims 4 Miejskie Życie",
+    "shop": "cdkeys",
+    "address": "the-sims-4-city-living-expansion-pack-pc-origin-cd-key",
+    "allegro": 11793607516,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Wampiry",
+    "shop": "cdkeys",
+    "address": "the-sims-4-vampires-game-pack-pc-origin-cd-key",
+    "allegro": 11793644402,
+    "price":  61.19
+  },
+  {
+    "title": "The Sims 4 Wampiry XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-vampires-game-pack-xbox-one",
+    "allegro": 11793661231,
+    "price":  77.79
+  },
+  {
+    "title": "The Sims 4 Śnieżna Eskapada",
+    "shop": "cdkeys",
+    "address": "the-sims-4-snowy-escape-pc-origin",
+    "allegro": 11793685171,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Śnieżna Eskapada XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-snowy-escape-expansion-pack-xbox-one-eu",
+    "allegro": 11793713258,
+    "price":  189.09
+  },
+  {
+    "title": "The Sims 4 Uniwersytet XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-discover-university-xbox-one",
+    "allegro": 11793738915,
+    "price":  72.79
+  },
+  {
+    "title": "The Sims 4 Uniwersytet",
+    "shop": "cdkeys",
+    "address": "the-sims-4-discover-university-pc",
+    "allegro": 11793721612,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Witaj w pracy",
+    "shop": "cdkeys",
+    "address": "the-sims-4-get-to-work-pc-cd-key-origin",
+    "allegro": 11793746707,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Witaj w pracy XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-get-to-work-xbox-one",
+    "allegro": 11792624367,
+    "price":  91.79
+  },
+  {
+    "title": "The Sims 4 Życie eko",
+    "shop": "cdkeys",
+    "address": "the-sims-4-eco-lifestyle-origin-pc",
+    "allegro": 11793776515,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Zostań Gwiazdą",
+    "shop": "cdkeys",
+    "address": "the-sims-4-eco-lifestyle-origin-pc",
+    "allegro": 11793793859,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Zostań Gwiazdą XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-get-famous-expansion-pack-xbox-one",
+    "allegro": 11793809964,
+    "price":  72.79
+  },
+  {
+    "title": "The Sims 4 Być Rodzicem XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-parenthood-game-pack-xbox-one",
+    "allegro": 11793848920,
+    "price":  94.49
+  },
+  {
+    "title": "The Sims 4 Być Rodzicem",
+    "shop": "cdkeys",
+    "address": "the-sims-4-parenthood-game-pack-pc-origin-cd-key",
+    "allegro": 11793821310,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Kuchnia na wypasie",
+    "shop": "cdkeys",
+    "address": "the-sims-4-cool-kitchen-stuff-pc-cd-key-origin",
+    "allegro": 11793860520,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Kuchnia na wypasie XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-cool-kitchen-stuff-xbox-one",
+    "allegro": 11793869879,
+    "price":  49.99
+  },
+  {
+    "title": "The Sims 4 Małe dzieci",
+    "shop": "cdkeys",
+    "address": "the-sims-4-toddler-stuff-pc-origin-cd-key",
+    "allegro": 11793877299,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Małe dzieci XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-toddler-stuff-xbox-one",
+    "allegro": 11793913384,
+    "price":  47.19
+  },
+  {
+    "title": "The Sims 4 Moschino",
+    "shop": "cdkeys",
+    "address": "pc/games/the-sims-4-moschino-sp15-pc",
+    "allegro": 11793920245,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Perfekcyjne Pario",
+    "shop": "cdkeys",
+    "address": "the-sims-4-perfect-patio-stuff-pc-cd-key-origin",
+    "allegro": 11793942381,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Perfekcyjne Pario XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-perfect-patio-stuff-xbox-one",
+    "allegro": 11793869879,
+    "price":  47.19
+  },
+  {
+    "title": "The Sims 4 Pokój Dzieciaków XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-kids-room-stuff-xbox-onee",
+    "allegro": 11794932537,
+    "price":  51.69
+  },
+  {
+    "title": "The Sims 4 Pokój Dzieciaków",
+    "shop": "cdkeys",
+    "address": "the-sims-4-kids-room-stuff-pc-origin-cd-key",
+    "allegro": 11794918091,
+    "price":  38.38
+  },
+  {
+    "title": "The Sims 4 Przygoda w Dżungli",
+    "shop": "cdkeys",
+    "address": "the-sims-4-jungle-adventure-game-pack-pc-origin-cd-key",
+    "allegro": 11794936012,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Przygoda w Dżungli XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-jungle-adventure-xbox-one",
+    "allegro": 11794943013,
+    "price":  75.09
+  },
+  {
+    "title": "The Sims 4 Spotkajmy się",
+    "shop": "cdkeys",
+    "address": "the-sims-4-get-together-pc-cd-key-origin",
+    "allegro": 11794945829,
+    "price":  55.59
+  },
+  {
+    "title": "The Sims 4 Spotkajmy się XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-get-together-xbox-one",
+    "allegro": 11794954389,
+    "price":  72.79
+  },
+  {
+    "title": "The Sims 4 StrangerVille XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-strangerville-xbox-one",
+    "allegro": 11794964037,
+    "price":  75.09
+  },
+  {
+    "title": "The Sims 4 StrangerVille",
+    "shop": "cdkeys",
+    "address": "the-sims-4-strangerville-game-pack-pc-origin-cd-key",
+    "allegro": 11794958128,
+    "price":  61.19
+  },
+  {
+    "title": "The Sims 4 Styl Dawnych Lat",
+    "shop": "cdkeys",
+    "address": "the-sims-4-vintage-glamour-stuff-pc-origin-cd-key",
+    "allegro": 11794967597,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Styl Dawnych Lat XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-vintage-glamour-stuff-xbox-one",
+    "allegro": 11794975727,
+    "price":  47.19
+  },
+  {
+    "title": "The Sims 4 Ucieczka w plener",
+    "shop": "cdkeys",
+    "address": "the-sims-4-outdoor-retreat-pc-cd-key-origin",
+    "allegro": 11794979810,
+    "price":  61.19
+  },
+  {
+    "title": "The Sims 4 Ucieczka w plener XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-outdoor-retreat-xbox-one",
+    "allegro": 11794985374,
+    "price":  77.79
+  },
+  {
+    "title": "The Sims 4 Wieczór na kręgielni",
+    "shop": "cdkeys",
+    "address": "the-sims-4-bowling-night-stuff-pc-cd-key-origin",
+    "allegro": 11794990623,
+    "price":  33.29
+  },
+  {
+    "title": "The Sims 4 Wieczór na kręgielni XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-bowling-night-stuff-xbox-one",
+    "allegro": 11795002113,
+    "price":  49.99
+  },
+  {
+    "title": "The Sims 4 Wielkie pranie",
+    "shop": "cdkeys",
+    "address": "the-sims-4-laundry-day-stuff-pc-cd-key-origin",
+    "allegro": 11795004119,
+    "price":  38.89
+  },
+  {
+    "title": "The Sims 4 Wielkie pranie XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-laundry-day-stuff-xbox-one",
+    "allegro": 11795046600,
+    "price":  47.19
+  },
+  {
+    "title": "The Sims 4 Wyprawa na Batuu",
+    "shop": "cdkeys",
+    "address": "the-sims-4-star-wars-journey-to-batuu-pc-dlc-origin",
+    "allegro": 11795016422,
+    "price":  61.19
+  },
+  {
+    "title": "The Sims 4 Wyprawa na Batuu XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-star-wars-journey-to-batuu-game-pack-xbox-one-eu",
+    "allegro": 11795022649,
+    "price":  87.89
+  },
+  {
+    "title": "The Sims 4 Wyprawa na Batuu PS4",
+    "shop": "cdkeys",
+    "address": "the-sims-4-star-wars-journey-to-batuu-dlc-eu-ps4",
+    "allegro": 11795029044,
+    "price":  105.69
+  },
+  {
+    "title": "The Sims 4 Wystrój marzeń",
+    "shop": "cdkeys",
+    "address": "the-sims-4-dream-home-decorator-pack-pc-dlc-origin",
+    "allegro": 11795050920,
+    "price":  71.29
+  },
+  {
+    "title": "The Sims 4 Zjedzmy na mieście",
+    "shop": "cdkeys",
+    "address": "the-sims-4-dine-out-expansion-pc-cd-key-origin",
+    "allegro": 11795075052,
+    "price":  66.69
+  },
+  {
+    "title": "The Sims 4 Zjedzmy na mieście XboxOne",
+    "shop": "cdkeys",
+    "address": "the-sims-4-dine-out-game-pack-xbox-one",
+    "allegro": 11795080620,
+    "price":  77.79
+  }
+]
+
+
+
+
+
