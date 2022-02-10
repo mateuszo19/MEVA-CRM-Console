@@ -783,8 +783,128 @@
     "address": "the-sims-4-dine-out-game-pack-xbox-one",
     "allegro": 11795080620,
     "price":  77.79
+  },
+  {
+    "title": "The Sims 3 Cztery pory roku",
+    "shop": "cdkeys",
+    "address": "the-sims-3-seasons-expansion-pack-pc-cd-key-origin",
+    "allegro": 11812253241,
+    "price":  30.59
+  },
+  {
+    "title": "The Sims 3 Diesel",
+    "shop": "cdkeys",
+    "address": "the-sims-3-diesel-stuff-pack-pc-cd-key-origin",
+    "allegro": 11812263042,
+    "price":  43.29
+  },
+  {
+    "title": "The Sims 3 Film",
+    "shop": "cdkeys",
+    "address": "the-sims-3-movie-stuff-pc-cd-key-origin",
+    "allegro": 11812274481,
+    "price":  27.79
+  },
+  {
+    "title": "The Sims 3 Impreza w plenerze",
+    "shop": "cdkeys",
+    "address": "the-sims-3-outdoor-living-stuff-pc-mac-cd-key-origin",
+    "allegro": 11812301139,
+    "price":  21.59
+  },
+  {
+    "title": "The Sims 3 Kariera",
+    "shop": "cdkeys",
+    "address": "the-sims-3-ambitions-pc-mac-cd-key-origin",
+    "allegro": 11812310740,
+    "price":  29.99
+  },
+  {
+    "title": "The Sims 3 Luksusowy wypoczynek", //26
+    "shop": "cdkeys",
+    "address": "the-sims-3-master-suite-stuff-pc-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  21.59
+  },
+  {
+    "title": "The Sims 3 Miejskie życie", //25
+    "shop": "cdkeys",
+    "address": "the-sims-3-town-life-stuff-pc-mac-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  20.49
+  },
+  {
+    "title": "The Sims 3 Nie z tego świata", //37
+    "shop": "cdkeys",
+    "address": "the-sims-3-town-life-stuff-pc-mac-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  30.59
+  },
+  {
+    "title": "The Sims 3 Nowoczesny apartament", //25
+    "shop": "cdkeys",
+    "address": "the-sims-3-high-end-loft-stuff-online-game-code-pc-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  20.49
+  },
+  {
+    "title": "The Sims 3 Po zmroku", //37
+    "shop": "cdkeys",
+    "address": "the-sims-3-late-night-pc-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  30.59
+  },
+  {
+    "title": "The Sims 3 Pokolenia", //37
+    "shop": "cdkeys",
+    "address": "the-sims-3-generations-expansion-pack-pc-mac-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  30.59
+  },
+  {
+    "title": "The Sims 3 Rajska wyspa", //37
+    "shop": "cdkeys",
+    "address": "the-sims-3-island-paradise-pc-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  30.59
+  },
+  {
+    "title": "The Sims 3 Skok w przyszłość", //37
+    "shop": "cdkeys",
+    "address": "the-sims-3-into-the-future-pc",
+    "allegro": 11795080620,
+    "price":  30.59
+  },
+  {
+    "title": "The Sims 3 Szalone lata 70, 80, 90", //25
+    "shop": "cdkeys",
+    "address": "the-sims-3-70s-80s-and-90s-stuff-pc-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  20.49
+  },
+  {
+    "title": "The Sims 3 Szybka jazda", //25
+    "shop": "cdkeys",
+    "address": "the-sims-3-fast-lane-stuff-pc-mac-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  20.49
+  },
+  {
+    "title": "The Sims 3 Wymarzone podróże", //37
+    "shop": "cdkeys",
+    "address": "the-sims-3-world-adventures-expansion-pack-pc-mac-cd-key-origin",
+    "allegro": 11795080620,
+    "price":  30.59
+  },
+  {
+    "title": "The Sims 3 Zostań gwiazdą", //27
+    "shop": "cdkeys",
+    "address": "the-sims-3-showtime-pc-mac",
+    "allegro": 11795080620,
+    "price":  22.27
   }
 ]
+
 
 
 
