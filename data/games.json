@@ -820,88 +820,95 @@
     "price":  29.99
   },
   {
-    "title": "The Sims 3 Luksusowy wypoczynek", //26
+    "title": "The Sims 3 Luksusowy wypoczynek", 
     "shop": "cdkeys",
     "address": "the-sims-3-master-suite-stuff-pc-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818244006,
     "price":  21.59
   },
   {
-    "title": "The Sims 3 Miejskie życie", //25
+    "title": "The Sims 3 Miejskie życie", 
     "shop": "cdkeys",
     "address": "the-sims-3-town-life-stuff-pc-mac-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818237783,
     "price":  20.49
   },
   {
-    "title": "The Sims 3 Nie z tego świata", //37
+    "title": "The Sims 3 Nie z tego świata", 
     "shop": "cdkeys",
     "address": "the-sims-3-town-life-stuff-pc-mac-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818233027,
     "price":  30.59
   },
   {
-    "title": "The Sims 3 Nowoczesny apartament", //25
+    "title": "The Sims 3 Nowoczesny apartament", 
     "shop": "cdkeys",
     "address": "the-sims-3-high-end-loft-stuff-online-game-code-pc-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818227240,
     "price":  20.49
   },
   {
-    "title": "The Sims 3 Po zmroku", //37
+    "title": "The Sims 3 Po zmroku", 
     "shop": "cdkeys",
     "address": "the-sims-3-late-night-pc-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818221543,
     "price":  30.59
   },
   {
-    "title": "The Sims 3 Pokolenia", //37
+    "title": "The Sims 3 Pokolenia",
     "shop": "cdkeys",
     "address": "the-sims-3-generations-expansion-pack-pc-mac-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818214984,
     "price":  30.59
   },
   {
-    "title": "The Sims 3 Rajska wyspa", //37
+    "title": "The Sims 3 Rajska wyspa",
     "shop": "cdkeys",
     "address": "the-sims-3-island-paradise-pc-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818209638,
     "price":  30.59
   },
   {
-    "title": "The Sims 3 Skok w przyszłość", //37
+    "title": "The Sims 3 Skok w przyszłość",
     "shop": "cdkeys",
     "address": "the-sims-3-into-the-future-pc",
-    "allegro": 11795080620,
+    "allegro": 11818204788,
     "price":  30.59
   },
   {
-    "title": "The Sims 3 Szalone lata 70, 80, 90", //25
+    "title": "The Sims 3 Szalone lata 70, 80, 90",
     "shop": "cdkeys",
     "address": "the-sims-3-70s-80s-and-90s-stuff-pc-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818197715,
     "price":  20.49
   },
   {
-    "title": "The Sims 3 Szybka jazda", //25
+    "title": "The Sims 3 Szybka jazda",
     "shop": "cdkeys",
     "address": "the-sims-3-fast-lane-stuff-pc-mac-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818190004,
     "price":  20.49
   },
   {
-    "title": "The Sims 3 Wymarzone podróże", //37
+    "title": "The Sims 3 Wymarzone podróże",
     "shop": "cdkeys",
     "address": "the-sims-3-world-adventures-expansion-pack-pc-mac-cd-key-origin",
-    "allegro": 11795080620,
+    "allegro": 11818180779,
     "price":  30.59
   },
   {
-    "title": "The Sims 3 Zostań gwiazdą", //27
+    "title": "The Sims 3 Zostań gwiazdą",
     "shop": "cdkeys",
     "address": "the-sims-3-showtime-pc-mac",
-    "allegro": 11795080620,
+    "allegro": 11818165652,
     "price":  22.27
+  },
+  {
+    "title": "Dying Light 2: Stay Human",
+    "shop": "cdkeys",
+    "address": "dying-light-2-stay-human-steam-pc",
+    "allegro": 11818262977,
+    "price":  266.99
   }
 ]
 
