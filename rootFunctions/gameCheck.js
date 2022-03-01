@@ -1,6 +1,7 @@
 const cheerio = require('cheerio')
 const express = require('express')
 const axios = require('axios')
+const articlesX = [];
 
 const checkGame = async (game) => {
     const articles = []
@@ -35,8 +36,14 @@ const x = {
     address: "assassins-creed-origins-gold-edition-pc-uplay-cd-key",
     allegro: 11793746707,
     price: 66.69
-}
-checkGame(x).then(x => {
-    console.log(x)
+};
+
+const gameA = checkGame(x).then(x => {
+    articlesX.push(x);
+    console.log(articlesX);
 });
-// console.log(`hej ${dsf}`)
+
+
+
+
+
