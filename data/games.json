@@ -5,7 +5,7 @@
     "shop": "cdkeys",
     "address": "euro-truck-simulator-2-pc",
     "allegro": 11676794457,
-    "price": 27.79
+    "price": 33.29
   },
   {
     "title": "Euro Truck Simulator 2 Going East DLC",
@@ -47,7 +47,7 @@
     "shop": "cdkeys",
     "address": "anno-2205-pc-uplay-cd-key",
     "allegro": 11760574475,
-    "price": 31.09
+    "price": 29.99
   },
   {
     "title": "Arma 3",
@@ -117,14 +117,14 @@
     "shop": "cdkeys",
     "address": "assassin-s-creed-unity-xbox-one",
     "allegro": 11760837484,
-    "price": 33.29
+    "price": 14.99
   },
   {
     "title": "Assassin'c Creed Valhalla",
     "shop": "cdkeys",
     "address": "assassins-creed-valhalla-pc-eu-uplay",
     "allegro": 11760848149,
-    "price": 100.09
+    "price": 138.99
   },
   {
     "title": "Assetto Corsa PC",
@@ -194,14 +194,14 @@
     "shop": "cdkeys",
     "address": "cities-skylines-pc-industries-plus-dlc-steam-cd-key",
     "allegro": 11767625556,
-    "price":  32.19
+    "price":  26.69
   },
   {
     "title": "Cities Skylines: Natural Disasters",
     "shop": "cdkeys",
     "address": "cities-skylines-pc-natural-disasters-dlc-steam-cd-key",
     "allegro": 11767650213,
-    "price":  19.39
+    "price":  22.19
   },
   {
     "title": "Cities Skylines: Parklife",
@@ -229,14 +229,14 @@
     "shop": "cdkeys",
     "address": "pc/games/dark-souls-iii-3-pc-cd-key-steam",
     "allegro": 11767762639,
-    "price":  49.99
+    "price":  66.69
   },
   {
     "title": "Days Gone",
     "shop": "cdkeys",
     "address": "pc/days-gone-pc-steam",
     "allegro": 11767789656,
-    "price":  94.49
+    "price":  100.09
   },
   {
     "title": "Dead by Daylight Deluxe",
@@ -250,7 +250,7 @@
     "shop": "cdkeys",
     "address": "pc/detroit-become-human-pc-steam",
     "allegro": 11767833426,
-    "price":  55.59
+    "price":  61.19
   },
   {
     "title": "Dirt Rally 2.0",
@@ -292,7 +292,7 @@
     "shop": "cdkeys",
     "address": "empire-total-war-pc-cd-key-steam",
     "allegro": 11767959847,
-    "price":  42.19
+    "price":  48.89
   },
   {
     "title": "F1 2020",
@@ -908,7 +908,53 @@
     "shop": "cdkeys",
     "address": "dying-light-2-stay-human-steam-pc",
     "allegro": 11818262977,
+<<<<<<< HEAD
     "price":  266.99
+  },
+  {
+    "title": "Age of Empires IV",
+    "shop": "cdkeys",
+    "address": "pc/age-of-empires-iv-pc-steam",
+    "allegro": 11878092356,
+    "price":  155.69
+  },
+  {
+    "title": "Arma 3",
+    "shop": "cdkeys",
+    "address": "pc/games/arma-3-pc-cd-key",
+    "allegro": 11878115899,
+    "price":  88.99
+  },
+  {
+    "title": "Battlefield 2042",
+    "shop": "cdkeys",
+    "address": "pc/battlefield-2042-pc-origin",
+    "allegro": 11878125520,
+    "price":  111.99
+  },
+  {
+    "title": "Cities Skylines: Campus",
+    "shop": "cdkeys",
+    "address": "cities-skylines-pc-campus-steam-dlc",
+    "allegro": 11878145343,
+    "price":  30.59
+  },
+  {
+    "title": "Football Manager 2022",
+    "shop": "cdkeys",
+    "address": "pc/football-manager-2022-pc-eu-uk-steam",
+    "allegro": 11878160389,
+    "price":  161.29
+  },
+  {
+    "title": "Farming simulator 22",
+    "shop": "cdkeys",
+    "address": "pc/farming-simulator-22-pc-steam",
+    "allegro": 11934241931,
+    "price":  139.29
+=======
+    "price":  289.29
+>>>>>>> 9b6e9fb637aa0b4a6ea2a8cbf7c6676beac5bc96
   }
 ]
 
