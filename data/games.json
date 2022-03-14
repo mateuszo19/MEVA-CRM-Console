@@ -955,7 +955,35 @@
 =======
     "price":  289.29
 >>>>>>> 9b6e9fb637aa0b4a6ea2a8cbf7c6676beac5bc96
-  }
+  },
+  {
+    "title": "Forza Horizon 4",
+    "shop": "cdkeys",
+    "address": "xbox-live/games/forza-horizon-4-xbox-one-cd-key",
+    "allegro": 11940680063,
+    "price":  101.69
+  },
+  {
+    "title": "Gods Will Fall",
+    "shop": "cdkeys",
+    "address": "pc/gods-will-fall-pc-steam",
+    "allegro": 11940735078,
+    "price":  31.39
+  },
+  {
+    "title": "Golf with your friends",
+    "shop": "cdkeys",
+    "address": "pc/games/golf-with-your-friends-pc-steam-cd-key",
+    "allegro": 11940754313,
+    "price":  24.19
+  },
+  {
+    "title": "Graven",
+    "shop": "cdkeys",
+    "address": "pc/graven-pc-steam",
+    "allegro": 11940778624,
+    "price":  24.19
+  },
 ]
 
 
