@@ -983,7 +983,35 @@
     "shop": "cdkeys",
     "address": "pc/graven-pc-steam",
     "allegro": 11940778624,
-    "price":  24.19
+    "price":  67.79
+  },
+ {
+    "title": "Green Hell",
+    "shop": "cdkeys",
+    "address": "pc/games/green-hell-pc-steam",
+    "allegro": 11968725437,
+    "price":  60.49
+  },
+ {
+    "title": "Grid 2",
+    "shop": "cdkeys",
+    "address": "grid-2-pc-cd-key-steam",
+    "allegro": 11968798284,
+    "price":  21.19
+  },
+ {
+    "title": "GTA 3",
+    "shop": "cdkeys",
+    "address": "grand-theft-auto-iii-pc-steam",
+    "allegro": 11968828189,
+    "price":  16.89
+  },
+ {
+    "title": "GTA 4",
+    "shop": "cdkeys",
+    "address": "grand-theft-auto-iv-4-pc-cd-key-steam",
+    "allegro": 11968848379,
+    "price":  135.69
   },
 =======
     "price":  289.29
