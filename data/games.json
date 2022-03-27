@@ -1013,6 +1013,27 @@
     "allegro": 11968848379,
     "price":  135.69
   },
+ {
+    "title": "GTA 4 The Complete Edition",
+    "shop": "cdkeys",
+    "address": "grand-theft-auto-iv-the-complete-edition-pc-rockstar",
+    "allegro": 11992466570,
+    "price":  55.69
+  },
+ {
+    "title": "GTA Episodes from Liberty City",
+    "shop": "cdkeys",
+    "address": "grand-theft-auto-episodes-from-liberty-city-pc-cd-key-steam",
+    "allegro": 11992478960,
+    "price":  132.29
+  },    
+ {
+    "title": "GTA The Trilogy: Definitive Edition",
+    "shop": "cdkeys",
+    "address": "grand-theft-auto-the-trilogy-the-definitive-edition-xbox-one-xbox-series-x-s-eu",
+    "allegro": 11992507298,
+    "price":  199.89
+  },  
 =======
     "price":  289.29
   }
