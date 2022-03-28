@@ -1034,6 +1034,28 @@
     "allegro": 11992507298,
     "price":  199.89
   },  
+ {
+    "title": "GTA Vice City",
+    "shop": "cdkeys",
+    "address": "grand-theft-auto-vice-city-pc-steam",
+    "allegro": 11997465717,
+    "price":  26.59
+  },  
+ 
+    {
+    "title": "Highrisers",
+    "shop": "cdkeys",
+    "address": "pc/highrisers-pc-steam",
+    "allegro": 11997541411,
+    "price":  41.09
+  },
+   {
+    "title": "Hitman - Game of the year edition",
+    "shop": "cdkeys",
+    "address": "pc/games/hitman-game-of-the-year-edition-pc-steam-cd-key",
+    "allegro": 11997562387,
+    "price":  24.19
+  },
 =======
     "price":  289.29
   }
