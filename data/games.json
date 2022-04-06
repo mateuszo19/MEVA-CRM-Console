@@ -1056,6 +1056,69 @@
     "allegro": 11997562387,
     "price":  24.19
   },
+   {
+    "title": "Hitman 2",
+    "shop": "g2a",
+    "address": "pl/hitman-2-steam-key-global-i10000166793001",
+    "allegro": 12034836209,
+    "price":  65.43
+  },
+   {
+    "title": "Hitman 3",
+    "shop": "cdkeys",
+    "address": "pc/hitman-3-pc-epic-games",
+    "allegro": 12034871322,
+    "price":  100.99
+  },
+   {
+    "title": "Hitman Absolution",
+    "shop": "cdkeys",
+    "address": "pc/games/hitman-absolution-pc-cd-key-steam",
+    "allegro": 12034919549,
+    "price":  9.49
+  },
+   {
+    "title": "Hitman Blood Money",
+    "shop": "eneba",
+    "address": "pl/steam-hitman-blood-money-steam-key-global",
+    "allegro": 12034961173,
+    "price":  6.00
+  },
+   {
+    "title": "HItman Codename 47",
+    "shop": "eneba",
+    "address": "pl/steam-hitman-codename-47-steam-key-global",
+    "allegro": 12034988253,
+    "price":  4.80
+  },
+   {
+    "title": "Hot wheels unleashed7",
+    "shop": "cdkeys",
+    "address": "pc/hot-wheels-unleashed-pc-steam",
+    "allegro": 12035020634,
+    "price":  101.59
+  },
+   {
+    "title": "ICBM",
+    "shop": "cdkeys",
+    "address": "pc/icbm-pc-steam",
+    "allegro": 12035097965,
+    "price":  56.69
+  },
+   {
+    "title": "Insurgency: Sandstorm",
+    "shop": "cdkeys",
+    "address": "pc/games/insurgency-sandstorm-pc-steam-cd-key",
+    "allegro": 12035129686,
+    "price":  81.39
+  },
+   {
+    "title": "Jumpala",
+    "shop": "cdkeys",
+    "address": "pc/games/insurgency-sandstorm-pc-steam-cd-key",
+    "allegro": 12035129686,
+    "price":  81.39
+  },
 =======
     "price":  289.29
   }
